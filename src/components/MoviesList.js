@@ -1,6 +1,4 @@
-import { LineWave } from 'react-loader-spinner';
 import { MoviesListItem } from './MoviesListItem';
-import { Link } from 'react-router-dom';
 
 export const MoviesList = ({ videoItems, locat }) => {
   return (
